@@ -12,6 +12,9 @@
 - [References](#references)
 
 ## Project Overview
+
+![image](https://github.com/user-attachments/assets/a5f37523-59d8-4f3b-8239-c960c1180caa)
+
 The goal of this project is to analyze BlinkIT’s grocery sales data to uncover insights on sales trends, item popularity, and performance across different store types and locations. By examining metrics such as item sales, outlet performance, and customer ratings, we aim to provide actionable recommendations for inventory management, promotional strategies, and store operations.
 
 ## Data Source
